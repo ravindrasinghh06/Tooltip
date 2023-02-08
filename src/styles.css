@@ -1,0 +1,35 @@
+html{
+    height: 100%;
+  }
+  body{
+    background-image: 
+    radial-gradient(	#FFFFFF 35%, #F5F5F5,#E8E8E8,#E8E8E8,#DCDCDC,#C8C8C8,#BEBEBE);
+    background-repeat: no-repeat;
+  }
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100%;
+    padding: 10%;
+  }
+  .Box{
+    margin-top: 50px;
+    background-color: #D2042D;
+    height: 120px;
+    width: 250px;
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 38%;
+    font-size: 20px;
+    box-shadow: 20px 20px 45px 12px grey;
+  }
+  #press{
+    padding: 30px;
+    
+  }
+  Tooltip{
+    position: relative;
+    display: inline-block;
+    
+  }
